@@ -19,6 +19,11 @@ static-website-build/
     └── scss
     index.html
 </pre>
+
+## Demo
+
+[Github Page](https://pavliukpetro.github.io/static-website-build/)
+
 ## Getting Started
 
 1. Install dependencies

@@ -11,12 +11,12 @@ It uses:
 
 ## Folders structure
 
-static-website-build/
-└── src
-    ├── images
-    ├── js
-    ├── modules
-    └── scss
+static-website-build/__
+└── src__
+    ├── images__
+    ├── js__
+    ├── modules__
+    └── scss__
     index.html
 
 ## Getting Started

@@ -10,15 +10,15 @@ It uses:
 - browser-sync
 
 ## Folders structure
-
-static-website-build/__
-└── src__
-    ├── images__
-    ├── js__
-    ├── modules__
-    └── scss__
+<pre>
+static-website-build/
+└── src
+    ├── images
+    ├── js
+    ├── modules
+    └── scss
     index.html
-
+</pre>
 ## Getting Started
 
 1. Install dependencies

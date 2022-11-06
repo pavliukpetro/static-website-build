@@ -1,0 +1,72 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 1.2;
+  background-color: #eee;
+  color: #3f3844;
+}
+
+a {
+  -webkit-transition: 0.1s linear;
+  -o-transition: 0.1s linear;
+  transition: 0.1s linear;
+}
+a:hover {
+  color: #ff5733;
+}
+
+p {
+  margin: 2rem 0;
+  line-height: 1.4em;
+}
+p:last-of-type {
+  margin-bottom: 0;
+}
+
+h1,
+h2 {
+  margin-bottom: 20px;
+  max-width: 100%;
+}
+
+.mb-20 {
+  margin-bottom: 20px;
+}
+
+.center {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.center h1 {
+  text-align: center;
+}
+
+.full-sized {
+  height: 100vh;
+  width: 100%;
+}
+.full-sized img {
+  max-width: 200px;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uL3NyYy9zY3NzL19nbG9iYWwuc2NzcyIsIm1haW4uY3NzIiwiLi4vLi4vc3JjL3Njc3MvX2NvbG9ycy5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOzs7RUFHSSxTQUFBO0VBQ0EsVUFBQTtFQUNBLDJCQUFBO1VBQUEsbUJBQUE7QUNDSjs7QURFQTtFQUNJLG9DQUFBO0VBQ0EsZUFBQTtFQUNBLGdCQUFBO0VBQ0Esc0JFWE87RUZZUCxjRWJTO0FEY2I7O0FERUE7RUFDSSwrQkFBQTtFQUFBLDBCQUFBO0VBQUEsdUJBQUE7QUNDSjtBRENJO0VBQ0ksY0VsQkU7QURtQlY7O0FER0E7RUFDSSxjQUFBO0VBQ0Esa0JBQUE7QUNBSjtBREVJO0VBQ0ksZ0JBQUE7QUNBUjs7QURJQTs7RUFFSSxtQkFBQTtFQUNBLGVBQUE7QUNESjs7QURJQTtFQUNJLG1CQUFBO0FDREo7O0FESUE7RUFDSSxvQkFBQTtFQUFBLG9CQUFBO0VBQUEsYUFBQTtFQUNBLDRCQUFBO0VBQUEsNkJBQUE7TUFBQSwwQkFBQTtVQUFBLHNCQUFBO0VBQ0EseUJBQUE7TUFBQSxzQkFBQTtVQUFBLG1CQUFBO0VBQ0Esd0JBQUE7TUFBQSxxQkFBQTtVQUFBLHVCQUFBO0FDREo7QURHSTtFQUNJLGtCQUFBO0FDRFI7O0FES0E7RUFDSSxhQUFBO0VBQ0EsV0FBQTtBQ0ZKO0FESUk7RUFDSSxnQkFBQTtBQ0ZSIiwiZmlsZSI6Im1haW4uY3NzIn0= */
